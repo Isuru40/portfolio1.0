@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route, Link, Navigate} from 'react-router-dom';
 import { CiMenuBurger } from 'react-icons/ci';
 import { IoMdClose } from 'react-icons/io';
 import { HiMoon } from 'react-icons/hi';
@@ -70,7 +70,7 @@ function App() {
                         <Route path="/education" element={<Education />} />
                         <Route path="/experience" element={<Experience />} />
                         <Route path="/projects" element={<Projects />} />
-                        {/*<Route path="/contact" element={<Contact />} />*/}
+                        <Route path="*" element={<Navigate to="/home" replace />} />
                     </Routes>
                     <Footer navBackground={navBackground} navLinkColor={navLinkColor}/> {/* Add the Footer component here */}
                 </div>

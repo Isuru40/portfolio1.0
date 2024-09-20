@@ -40,7 +40,7 @@ const Projects = () => {
                 'service architecture aimed at supporting and automating the Back-Office \n' +
                 'workflows.',
             link: '',
-            technologies: 'Angular 12 | Java 17 | Web Sockets | Dropwizard | Spring boot'
+            technologies: 'Angular 14 | Java 17 | Web Sockets | Dropwizard | Spring boot'
         },
         {
             title: 'ClassEka.lk',

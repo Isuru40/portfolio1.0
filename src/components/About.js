@@ -6,11 +6,11 @@ import { MdEmail } from "react-icons/md"; // Import social media icons
 const About = () => {
     const skills = {
         "Programming Languages & Core Technical Skills": "Java, TypeScript, JavaScript, Python, C#, SQL, HTML & CSS",
-        "Frameworks and Libraries": "Angular, SpringBoot, Spring, JPA, Infinispan, PrimeNG, Node.js",
+        "Frameworks and Libraries": "Angular, React, SpringBoot, Spring, JPA, Infinispan, PrimeNG, Node.js",
         "DBMS": "Oracle, PostgreSQL, MySQL, InfluxDB, MongoDB, SQLite",
         "Testing": "Mockito, PowerMock, Karma, Swagger",
         "Tools": "JIRA, GIT, Maven, NPM, Docker, Jenkins, WinSCP, Putty, Postman, IntelliJ IDEA/WebStorm, Visual Studio Code",
-        "Cloud Platforms": "AWS (IAM, EC2, S3)",
+        "Cloud Platforms": "AWS (IAM, RDS, ECR, ECS), Firebase(Cloud functions, Firestore, Hosting, Authentication), GCP ( Compute Engine)",
         "Miscellaneous": "Apache Kafka, Drools, Node-RED server, Crystal Reports, Postman",
         "Concepts": "OOP, CI/CD, ACID, SOLID & Agile",
         "Soft Skills": "Leadership Skills, Strong team player, Time Management, Demonstration Skills"
@@ -78,7 +78,7 @@ const About = () => {
                         <h2 className="text-black dark:text-white text-2xl font-bold mb-4">Resume</h2>
                         <p>
                             <a
-                                href="https://drive.google.com/file/d/1rBEVMisIVtLPzSxvX_scje3CLDME9MuG/view?usp=sharing"
+                                href="https://drive.google.com/drive/folders/1otmqxP8sYyhBBZ2sjRt51u_c2FTYquu5?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-block bg-blue-500 dark:bg-blue-400 text-white dark:text-gray-800 font-semibold py-2 px-4 rounded hover:bg-blue-600 dark:hover:bg-blue-300 transition"

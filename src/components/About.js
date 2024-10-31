@@ -72,7 +72,8 @@ const About = () => {
                         </p>
                         <p className="text-gray-800 dark:text-gray-200 flex items-center mb-2">
                             <FaAddressBook className="mr-2" />
-                            Address: <span className="ml-1">Unit 140AD 537-561 West Street, Toowoomba, QLD, 4350</span>
+                            Address: <span className="ml-1">Brisbane, QLD</span>
+                            {/* <span className="ml-1">Unit 140AD 537-561 West Street, Toowoomba, QLD, 4350</span> */}
                         </p>
 
                         <h2 className="text-black dark:text-white text-2xl font-bold mb-4">Resume</h2>

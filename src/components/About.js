@@ -38,18 +38,23 @@ const About = () => {
                     <div className="mt-4 flex space-x-4 justify-center md:justify-start mb-4">
                         <a href="https://www.linkedin.com/in/i-d-r/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-blue-500">
                             <FaLinkedin size={24} />
+                            <span>Linkedin</span>
                         </a>
                         <a href="https://github.com/Isuru40" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-black">
                             <FaGithub size={24} />
+                            <span>GitHub</span>
                         </a>
                         <a href="https://stackoverflow.com/users/7469625/isuru-dhananjaya-ranaweera" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-orange-500">
                             <FaStackOverflow size={24} />
+                            <span>StackOverflow</span>
                         </a>
                         <a href="https://i-d-r.medium.com/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-green-500">
                             <FaMedium size={24} />
+                            <span>Medium</span>
                         </a>
                         <a href="https://www.researchgate.net/profile/Isuru-Ranaweera-3" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-300 hover:text-green-500">
                             <FaResearchgate size={24} />
+                            <span>Researchgate</span>
                         </a>
                     </div>
 

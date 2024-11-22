@@ -8,11 +8,11 @@ const About = () => {
         "Programming Languages & Core Technical Skills": "Java, TypeScript, JavaScript, Python, C#, SQL, HTML & CSS",
         "Frameworks and Libraries": "Angular, React, SpringBoot, Spring, JPA, Infinispan, PrimeNG, Node.js",
         "DBMS": "Oracle, PostgreSQL, MySQL, InfluxDB, MongoDB, SQLite",
-        "Testing": "Mockito, PowerMock, Karma, Swagger",
+        "Testing": "Karma, Swagger, Jest, Storybook, JUnit, Mockito",
         "Tools": "JIRA, GIT, Maven, NPM, Docker, Jenkins, WinSCP, Putty, Postman, IntelliJ IDEA/WebStorm, Visual Studio Code",
         "Cloud Platforms": "AWS (IAM, RDS, ECR, ECS), Firebase(Cloud functions, Firestore, Hosting, Authentication), GCP ( Compute Engine)",
         "Miscellaneous": "Apache Kafka, Drools, Node-RED server, Crystal Reports, Postman",
-        "Concepts": "OOP, CI/CD, ACID, SOLID & Agile",
+        "Concepts": "OOP, TDD, CI/CD (DevOps Practices), REST, SOLID and Agile",
         "Soft Skills": "Leadership Skills, Strong team player, Time Management, Demonstration Skills"
     };
 

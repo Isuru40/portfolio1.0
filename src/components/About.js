@@ -30,7 +30,7 @@ const About = () => {
                 <div className="md:w-2/3 text-center md:text-left flex flex-col">
                     <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Hi, I'm Isuru Dhananjaya Ranaweera</h1>
                     <p className="mt-4 text-gray-700 dark:text-gray-300">
-                        Full-Stack Developer specializing in Java ,React and Angular with over 4+ years of experience in building and
+                        Full-Stack Developer specializing in Java, React and Angular with over 4+ years of experience in building and
                         deploying web applications. Passionate about creating efficient, scalable, and user-friendly solutions.
                     </p>
 

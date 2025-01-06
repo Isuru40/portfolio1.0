@@ -23,6 +23,33 @@ function Education() {
 
     const certificationData = [
         {
+            school: 'LinkedIn',
+            degree: 'Redis Essential Training',
+            duration: 'Issued Dec 2024',
+            description: 'Taught by Fernando Doglio',
+            additional: 'Redis',
+            link: 'https://www.linkedin.com/learning/certificates/9ae83bc941eba29f141ee998523819436602fbca260e30ae4275aff4a2db1efc' // Add the specific link here
+        },
+        {
+            school: 'LinkedIn',
+            degree: 'GraphQL Essential Training',
+            duration: 'Issued Nov 2024',
+            description: 'Taught by Emmanuel Henri',
+            additional: 'GraphQL',
+            link: 'https://www.linkedin.com/learning/certificates/57010391506eb6d6dc700ded95e2afd45262ecd1d75d6e13104893ccb9986f3b?trk=share_certificate' // Add the specific link here
+        },
+        {
+            school: 'LinkedIn',
+            degree: 'Learning Next.js',
+            duration: 'Issued Nov 2024',
+            description: 'Taught by Sandy Ludosky',
+            additional: 'Web Development\n' +
+                'Front-End Development\n' +
+                'Next.js\n' +
+                'React.js',
+            link: 'https://www.linkedin.com/learning/certificates/8a6b92eb950963d78e718e2bd69ae9033eeb6517292c7f219b9fa7689af4feb4?trk=share_certificate' // Add the specific link here
+        },
+        {
             school: 'Udemy',
             degree: 'The Complete Android & Java Developer',
             duration: 'Issued May 2020',

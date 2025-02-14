@@ -21,7 +21,7 @@ const Experience = () => {
         {
             project: 'Next Generation Trading Platform (NTP-Morgan Stanly Saudi Arabia, Saudi Franci capital, etc)',
             projectRole: 'Senior Software Engineer',
-            company: 'DFN Technology (Sri Lanka/Saudi Arabia)',
+            company: 'DirectFN(Previously MUBASHER) (Sri Lanka/Saudi Arabia)',
             period: 'May 2023 - August 2024  (1 Year 3 Months)',
             businessProblem: 'AT is a Multi-Tenant Cloud Native client-server application using Microservice architecture' +
                 ' aimed at supporting and automating the Back-Office workflows, It covers fully fledged Back-Office client automating, ' +
@@ -55,7 +55,7 @@ const Experience = () => {
         {
             project: 'NTP Admin Terminal - Core',
             projectRole: 'Software Engineer',
-            company: 'DFN Technology (Sri Lanka/Saudi Arabia)',
+            company: 'DirectFN(Previously MUBASHER)  (Sri Lanka/Saudi Arabia)',
             period: 'May 2021 - May 2023  (2 Year)',
             businessProblem: 'It is a solution to replace an existing legacy brokerage application by latest technologies with performance improvements, Design and develop a single code base core client-server architecture which can customizable to multiple levels such as country level and broker level based on the requirement of our clients.  It can be used as end product or core library for end products.',
             tasksHandled: [

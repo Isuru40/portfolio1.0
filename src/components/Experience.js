@@ -3,6 +3,25 @@ import React from 'react';
 const Experience = () => {
     const experiences = [
         {
+            project: 'WebAlive',
+            projectRole: 'Software Developer',
+            company: 'WebAlive  (Melbourne, VIC, Australia - Fully Remote)',
+            period: 'May 2025 - Present',
+            isPresent: true,
+            businessProblem: 'Provisioning Platform for instance management',
+            tasksHandled: [
+                'Engaging in diverse development tasks using Java 11 for backend development and Angular 16 for frontend development, contributing to the provisioning system for instance management',
+                'Performing database-related development using MySQL to meet system requirements',
+                'Participating in peer code reviews (Bitbucket Pull Requests) and advised on necessary code refactoring',
+                'Conducting integration testing between components',
+                'Refactored code, optimized performance, conducted root cause analysis, and resolved issues',
+
+            ],
+            accomplishments: [
+
+            ]
+        },
+        {
             project: 'ClassEka.lk',
             projectRole: 'Full Stack Developer ',
             company: 'ClassEka.lk  (External Contact- Part Time - Fully Remote)',

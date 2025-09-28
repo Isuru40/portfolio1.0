@@ -5,6 +5,14 @@ import { FaGithub ,FaMedium } from "react-icons/fa";
 const Projects = () => {
     const projects = [
         {
+            title: 'Jigsaw Puzzle Games',
+            description: 'Solve beautiful puzzles anytime, anywhere. No sign-up required. Just tap and play!',
+            link: '',
+            technologies: 'React | Vite ',
+            mediumLink: '', // No Medium link for this project
+            prodLink: 'https://jpw.games/',
+        },
+        {
             title: 'Cabs and Tours Web Site',
             description: 'Cabs and Tours provider info site',
             link: 'https://github.com/Isuru40/taxi-app',
